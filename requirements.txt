@@ -1,0 +1,11 @@
+# NOVA Skin — D2C Marketing Analytics
+# Core data analysis
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Notebook environment
+jupyter
